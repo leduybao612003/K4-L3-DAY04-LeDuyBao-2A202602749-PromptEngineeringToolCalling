@@ -333,7 +333,7 @@ repository chung:
 
 **URL repository chung dùng để nộp:**
 
-> URL: https://github.com/leduybao612003/K4-L3B-Day04-K4-L3-DAY04-LeDuyBao-2A202602749-PromptEngineeringToolCalling
+> URL: https://github.com/leduybao612003/K4-L3-DAY04-LeDuyBao-2A202602749-PromptEngineeringToolCalling
 
 - [x] Tên repo đúng mẫu `K4-L3-DAY04-HoVaTen-MSSV-PromptEngineeringToolCalling.`
 - [x] Kiểm tra deadline và bản chốt theo [SUBMISSION.md](../../SUBMISSION.md)
